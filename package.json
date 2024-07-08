@@ -1,0 +1,22 @@
+{
+  "name": "emi-calculator",
+  "version": "1.0.0",
+  "description": "EMI Calculator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emi",
+    "express"
+  ],
+  "author": "Utkarsh Gaikwad",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
